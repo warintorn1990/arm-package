@@ -1,0 +1,32 @@
+{
+  "name": "arm_test",
+  "version": "1.0.0",
+  "description": "a sample package",
+  "engines": {
+    "node": ">=7.8.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warintorn1990/arm-package.git"
+  },
+  "keywords": [
+    "adding"
+  ],
+  "author": "warintorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warintorn1990/arm-package/issues"
+  },
+  "homepage": "https://github.com/warintorn1990/arm-package#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
